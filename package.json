@@ -1,6 +1,6 @@
 {
   "name": "@terraphim.ai/terraphim-automata-node",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Terraphim AI Automata Node JS bindings",
   "main": "index.js",
   "repository": "https://github.com/terraphim/terraphim-automata-node.git",
