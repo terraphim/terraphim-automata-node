@@ -1,7 +1,7 @@
 name: CI
 env:
   DEBUG: napi:*
-  APP_NAME: "@terraphim/terraphim-automata-node"
+  APP_NAME: "terraphim-automata-node"
   MACOSX_DEPLOYMENT_TARGET: "10.13"
 "on":
   push:
