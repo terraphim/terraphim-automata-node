@@ -1,5 +1,5 @@
 {
-  "name": "@terraphim.ai/terraphim-automata-node-linux-arm64-musl",
+  "name": "@terraphim/terraphim-automata-node-linux-arm64-musl",
   "version": "0.0.2",
   "os": [
     "linux"
@@ -7,11 +7,11 @@
   "cpu": [
     "arm64"
   ],
-  "main": "@terraphim.ai/terraphim-automata-node.linux-arm64-musl.node",
+  "main": "terraphim-automata-node.linux-arm64-musl.node",
   "files": [
-    "@terraphim.ai/terraphim-automata-node.linux-arm64-musl.node"
+    "terraphim-automata-node.linux-arm64-musl.node"
   ],
-  "description": "Terraphim AI Automata Node JS bindings",
+  "description": "Node JS binding to Aho Corasick Rust crate",
   "keywords": [
     "napi-rs",
     "NAPI",
@@ -28,7 +28,7 @@
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
-  "repository": "https://github.com/terraphim/terraphim-automata-node.git",
+  "repository": "https://github.com/terraphim/terraphim-automata-node/",
   "libc": [
     "musl"
   ]

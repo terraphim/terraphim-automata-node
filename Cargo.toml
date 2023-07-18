@@ -11,12 +11,12 @@ crate-type = ["cdylib"]
 
 [dependencies]
 aho-corasick = "1.0.2"
-napi        = "2"
-napi-derive = "2"
+napi         = "2"
+napi-derive  = "2"
 
 [build-dependencies]
 napi-build = "2"
 
 [profile.release]
-lto = true
+lto   = true
 strip = true

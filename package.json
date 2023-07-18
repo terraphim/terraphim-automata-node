@@ -1,9 +1,9 @@
 {
-  "name": "@terraphim.ai/terraphim-automata-node",
+  "name": "@terraphim/terraphim-automata-node",
   "version": "0.0.2",
-  "description": "Terraphim AI Automata Node JS bindings",
+  "description": "Node JS binding to Aho Corasick Rust crate",
   "main": "index.js",
-  "repository": "https://github.com/terraphim/terraphim-automata-node.git",
+  "repository": "https://github.com/terraphim/terraphim-automata-node/",
   "license": "MIT",
   "keywords": [
     "napi-rs",
@@ -18,7 +18,7 @@
     "index.js"
   ],
   "napi": {
-    "name": "@terraphim.ai/terraphim-automata-node",
+    "name": "terraphim-automata-node",
     "triples": {
       "defaults": true,
       "additional": [

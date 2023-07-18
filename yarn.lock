@@ -352,9 +352,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@terraphim.ai/terraphim-automata-node@workspace:.":
+"@terraphim/terraphim-automata-node@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@terraphim.ai/terraphim-automata-node@workspace:."
+  resolution: "@terraphim/terraphim-automata-node@workspace:."
   dependencies:
     "@napi-rs/cli": ^2.14.6
     "@swc-node/register": ^1.5.5

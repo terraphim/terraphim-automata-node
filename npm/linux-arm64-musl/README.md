@@ -1,3 +1,3 @@
-# `@terraphim.ai/terraphim-automata-node-linux-arm64-musl`
+# `@terraphim/terraphim-automata-node-linux-arm64-musl`
 
-This is the **aarch64-unknown-linux-musl** binary for `@terraphim.ai/terraphim-automata-node`
+This is the **aarch64-unknown-linux-musl** binary for `@terraphim/terraphim-automata-node`

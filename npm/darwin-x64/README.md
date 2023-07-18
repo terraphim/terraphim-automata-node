@@ -1,3 +1,3 @@
-# `@terraphim.ai/terraphim-automata-node-darwin-x64`
+# `@terraphim/terraphim-automata-node-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `@terraphim.ai/terraphim-automata-node`
+This is the **x86_64-apple-darwin** binary for `@terraphim/terraphim-automata-node`
