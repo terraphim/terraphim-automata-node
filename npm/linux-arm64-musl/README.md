@@ -1,3 +1,3 @@
-# `@napi-rs/package-template-linux-arm64-musl`
+# `@terraphim.ai/terraphim-automata-node-linux-arm64-musl`
 
-This is the **aarch64-unknown-linux-musl** binary for `@napi-rs/package-template`
+This is the **aarch64-unknown-linux-musl** binary for `@terraphim.ai/terraphim-automata-node`

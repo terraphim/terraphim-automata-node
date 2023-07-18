@@ -1,9 +1,9 @@
 {
-  "name": "@napi-rs/package-template",
+  "name": "@terraphim.ai/terraphim-automata-node",
   "version": "1.0.0",
-  "description": "Template project for writing node package with napi-rs",
+  "description": "Terraphim AI Automata Node JS bindings",
   "main": "index.js",
-  "repository": "git@github.com:napi-rs/package-template.git",
+  "repository": "https://github.com/terraphim/terraphim-automata-node.git",
   "license": "MIT",
   "keywords": [
     "napi-rs",
@@ -18,7 +18,7 @@
     "index.js"
   ],
   "napi": {
-    "name": "package-template",
+    "name": "@terraphim.ai/terraphim-automata-node",
     "triples": {
       "defaults": true,
       "additional": [

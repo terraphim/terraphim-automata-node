@@ -1,3 +1,3 @@
-# `@napi-rs/package-template-darwin-arm64`
+# `@terraphim.ai/terraphim-automata-node-darwin-arm64`
 
-This is the **aarch64-apple-darwin** binary for `@napi-rs/package-template`
+This is the **aarch64-apple-darwin** binary for `@terraphim.ai/terraphim-automata-node`
