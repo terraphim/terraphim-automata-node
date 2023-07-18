@@ -1,6 +1,6 @@
 {
   "name": "@terraphim/terraphim-automata-node",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node JS binding to Aho Corasick Rust crate",
   "main": "index.js",
   "repository": "https://github.com/terraphim/terraphim-automata-node/",
