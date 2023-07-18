@@ -26,8 +26,7 @@ pub fn replace_all_stream(patterns: Vec<String>, replace_with: Vec<String>, rdr:
   let ac = AhoCorasick::new(patterns).unwrap();
   ac.try_stream_replace_all(rdr.as_bytes(), &mut wtr, replace_with)
     .unwrap();
-  let utf8_string = String::from_utf8(wtr)
+  String::from_utf8(wtr)
     .map_err(|non_utf8| String::from_utf8_lossy(non_utf8.as_bytes()).into_owned())
-    .unwrap();
-  utf8_string
+    .unwrap()
 }
